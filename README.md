@@ -1,7 +1,7 @@
 [//]: <> (GitHub stats and most used languages)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZDEsy&show_icons=true&theme=dark)
 
-![p4p1's tryhackme stats](https://raw.githubusercontent.com/ZDEsy/ZDEsy/master/assets/THM_ZDEsy.png)
+<p align="left"><a href="https://tryhackme.com/p/ZDEsy" target="_blank"><img src="assets/THM_ZDEsy.png"></a></p>
 
 [//]: <> (IMAGES)
 <p align="center">
