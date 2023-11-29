@@ -19,6 +19,6 @@
   <p float="left">
   <img src="THM-Certs/THM-Red-Teaming-Learning-Path.png" alt="THM-Red-Teaming-Learning-Path" width="33%" />
   <img src="THM-Certs/THM-Web-Fundamentals-Learning-Path.png" alt="THM-Web-Fundamentals-Learning-Path" width="33%" />
-  <img  width="33%" />
+  <img src="THM-Certs/THM-Coming-Soon.png" alt="THM-Coming-Soon" width="33%" />
 </p>
 </details>
