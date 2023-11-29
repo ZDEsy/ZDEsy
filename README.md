@@ -3,5 +3,5 @@
 
 [//]: <> (IMAGES)
 <p align="center">
-  <img width="360" src="polaroid.jpg">
+  <img width="360" src="THM-Certs.jpg">
 </p>
