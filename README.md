@@ -4,6 +4,14 @@
 <p align="left"><a href="https://tryhackme.com/p/ZDEsy" target="_blank"><img src="assets/THM_ZDEsy.png"></a></p>
 
 [//]: <> (IMAGES)
-<p align="center">
-  <img width="360" src="THM-Certs.jpg">
-</p>
+<details>
+  <summary>THM Certificates</summary>
+  <img src="THM-Certs/THM-CompTIA-Pentest+-Learning-Path.png" alt="THM-CompTIA-Pentest+-Learning-Path"/>
+  <img src="THM-Certs/THM-Complete-Beginner-Learning-Path.png" alt="THM-Complete-Beginner-Learning-Path"/>
+  <img src="THM-Certs/THM-Introduction-to-Cyber-Security-Learning-Path.png" alt="THM-Introduction-to-Cyber-Security-Learning-Path"/>
+  <img src="THM-Certs/THM-Jr-Penetration-Tester-Learning-Path.png" alt="THM-Jr-Penetration-Tester-Learning-Path"/>
+  <img src="THM-Certs/THM-Offensive-Pentesting-Learning-Path.png" alt="THM-Offensive-Pentesting-Learning-Path"/>
+  <img src="THM-Certs/THM-Pre-Security-Learning-Path.png" alt="THM-Pre-Security-Learning-Path.png"/>
+  <img src="THM-Certs/THM-Red-Teaming-Learning-Path.png" alt="THM-Red-Teaming-Learning-Path"/>
+  <img src="THM-Certs/THM-Web-Fundamentals-Learning-Path.png" alt="THM-Web-Fundamentals-Learning-Path"/>
+</details>
