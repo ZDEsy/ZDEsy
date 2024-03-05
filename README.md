@@ -11,8 +11,9 @@
 
 <p><a href="https://tryhackme.com/p/ZDEsy" target="_blank"><img src="assets/THM_ZDEsy.png"></a></p>
 
-[//]: <> (IMAGES)
+
 <details>
+  [//]: <> (IMAGES)
   <summary><h2>THM Certificates</h2></summary>
   <p float="left">
   <img src="THM-Certs/THM-CompTIA-Pentest+-Learning-Path.png" alt="THM-CompTIA-Pentest+-Learning-Path" width="33%" />
