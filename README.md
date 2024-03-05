@@ -1,7 +1,13 @@
 [//]: <> (GitHub stats and most used languages)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZDEsy&show_icons=true&theme=dark)
 
-<p><a href="https://www.linkedin.com/in/zden%C4%9Bk-uttendorfsk%C3%BD-464008295/" target="_blank"><img src="assets/ethical-hacker.png" width="200px"><img src="assets/introduction-to-cybersecurity.png" width="200px"></a></p>
+<p>
+  <a href="https://www.linkedin.com/in/zden%C4%9Bk-uttendorfsk%C3%BD-464008295/" target="_blank">
+    <img src="assets/ethical-hacker.png" width="200px">
+    <img src="assets/introduction-to-cybersecurity.png" width="200px">
+    <img src="assets/network-basics.png.png" width="200px">
+  </a>
+</p>
 
 <p><a href="https://tryhackme.com/p/ZDEsy" target="_blank"><img src="assets/THM_ZDEsy.png"></a></p>
 
