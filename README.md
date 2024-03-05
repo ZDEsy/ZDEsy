@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/zden%C4%9Bk-uttendorfsk%C3%BD-464008295/" target="_blank">
     <img src="assets/ethical-hacker.png" width="200px">
     <img src="assets/introduction-to-cybersecurity.png" width="200px">
-    <img src="assets/networking-basics.png.png" width="200px">
+    <img src="assets/networking-basics.png" width="200px">
   </a>
 </p>
 
