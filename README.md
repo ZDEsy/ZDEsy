@@ -13,7 +13,7 @@
 
 
 <details>
-  <summary><h2>THM Certificates</h2></summary>
+  <summary>THM Certificates</summary>
   <p float="left">
   <img src="THM-Certs/THM-CompTIA-Pentest+-Learning-Path.png" alt="THM-CompTIA-Pentest+-Learning-Path" width="33%" />
   <img src="THM-Certs/THM-Complete-Beginner-Learning-Path.png" alt="THM-Complete-Beginner-Learning-Path" width="33%" />
