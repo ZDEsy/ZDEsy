@@ -7,6 +7,7 @@
     <img src="assets/ethical-hacker.png" width="200px">
     <img src="assets/introduction-to-cybersecurity.png" width="200px">
     <img src="assets/networking-basics.png" width="200px">
+    <img src="assets/networking-devices-and-initial-configuration.png" width="200px"><br>
     <img src="assets/networking-devices-and-initial-configuration.png" width="200px">
   </a>
 </p>
