@@ -1,11 +1,3 @@
-<hr>
-<div align="center">
-  <strong>
-    PROFILE IS CURRENTLY BEING UPDATED. THE WEBSITE IS TEMPORARILY UNAVAILABLE DUE TO A DOMAIN CHANGE<br>
-    (PROFIL JE PRÁVĚ AKTUALIZOVÁN. WEBOVÉ STRÁNKY JSOU DOČASNĚ NEDOSTUPNÉ Z DŮVODU ZMĚNY DOMÉNY)
-  </strong>
-</div>
-<hr>
 <br>
 
 [//]: <> (GitHub stats and most used languages)
