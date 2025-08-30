@@ -14,6 +14,7 @@
     <img src="assets/networking-devices-and-initial-configuration.png" width="200px"><br>
     <img src="assets/endpoint-security.png" width="200px">
     <img src="assets/cyberops-associate.png" width="200px">
+    <img src="assets/ccna-introduction-to-networks.png" width="200px">
   </a>
 </p>
 <br>
@@ -36,6 +37,9 @@
     </a>
     <a href="assets/CyberOps_Associate_certificate.pdf">
       <img src="assets/CyberOps_Associate_certificate-1.png" width="33%">
+    </a>
+    <a href="assets/CCNA-_Introduction_to_Networks_certificate.pdf">
+      <img src="assets/CCNA-_Introduction_to_Networks_certificate-1.png" width="33%">
     </a>
 </p>
 <br>
